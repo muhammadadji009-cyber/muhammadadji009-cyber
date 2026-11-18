@@ -91,7 +91,7 @@
       <text x="550.4000000000001" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">GitHub.Stars:</tspan> <tspan class="value">0</tspan></text>
       <text x="550.4000000000001" y="332" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">GitHub.Followers:</tspan> <tspan class="value">0</tspan></text>
       <text x="550.4000000000001" y="354" class="fieldline typewriter" style="animation-delay:1.10s"><tspan class="label">GitHub.Languages:</tspan> <tspan class="value">Python</tspan></text>
-      <text x="550.4000000000001" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">GitHub.Contributions:</tspan> <tspan class="value">12</tspan></text>
+      <text x="550.4000000000001" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">GitHub.Contributions:</tspan> <tspan class="value">13</tspan></text>
   
       <rect x="550.4" y="412.0" width="20" height="20" rx="3" fill="#001100" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.22s" />
       <rect x="578.4" y="412.0" width="20" height="20" rx="3" fill="#00cc33" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.27s" />
