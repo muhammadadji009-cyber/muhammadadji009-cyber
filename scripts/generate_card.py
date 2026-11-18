@@ -44,10 +44,10 @@ BG_COLOR = "#0d0208"          # terminal window background
 TITLEBAR_COLOR = "#001100"    # title bar strip
 TITLE_TEXT_COLOR = "#005500"
 ACCENT = "#00ff66"             # ASCII art color
-HEADER_COLOR = "#ff0033"       # bold "login@github" header + prompt user/path
+HEADER_COLOR = "#33ff00"       # bold "login@github" header + prompt user/path (green, no red)
 LABEL_COLOR = "#008f11"        # bold field labels
 VALUE_COLOR = "#00ff41"        # field values
-PALETTE = ["#001100", "#ff0033", "#00ff41", "#33ff00", "#008f11",
+PALETTE = ["#001100", "#00cc33", "#00ff41", "#33ff00", "#008f11",
            "#00ffcc", "#003300", "#00ff00"]
 
 PROMPT_COMMANDS = [
