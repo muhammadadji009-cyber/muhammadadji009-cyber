@@ -2,12 +2,12 @@
   <defs>
     <style>
       .art { font-family: 'Courier New', monospace; font-size: 12.3px; fill: #00ff66; white-space: pre; }
-      .header { font-family: 'Courier New', monospace; font-size: 18px; font-weight: bold; fill: #ff0033; }
-      .rule { stroke: #ff0033; stroke-width: 1.4; opacity: 0.85; }
+      .header { font-family: 'Courier New', monospace; font-size: 18px; font-weight: bold; fill: #33ff00; }
+      .rule { stroke: #33ff00; stroke-width: 1.4; opacity: 0.85; }
       .fieldline { font-family: 'Courier New', monospace; font-size: 13px; }
       .label { fill: #008f11; font-weight: bold; }
       .value { fill: #00ff41; }
-      .prompt { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; fill: #ff0033; }
+      .prompt { font-family: 'Courier New', monospace; font-size: 15px; font-weight: bold; fill: #33ff00; }
       .titletext { font-family: 'Courier New', monospace; font-size: 13px; fill: #005500; }
       .promptcmd { font-family: 'Courier New', monospace; font-size: 15px; fill: #00ff41; white-space: pre; }
       .promptcursor { fill: #00ff66; }
@@ -91,10 +91,10 @@
       <text x="550.4000000000001" y="310" class="fieldline typewriter" style="animation-delay:0.98s"><tspan class="label">GitHub.Stars:</tspan> <tspan class="value">0</tspan></text>
       <text x="550.4000000000001" y="332" class="fieldline typewriter" style="animation-delay:1.04s"><tspan class="label">GitHub.Followers:</tspan> <tspan class="value">0</tspan></text>
       <text x="550.4000000000001" y="354" class="fieldline typewriter" style="animation-delay:1.10s"><tspan class="label">GitHub.Languages:</tspan> <tspan class="value">Python</tspan></text>
-      <text x="550.4000000000001" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">GitHub.Contributions:</tspan> <tspan class="value">10</tspan></text>
+      <text x="550.4000000000001" y="376" class="fieldline typewriter" style="animation-delay:1.16s"><tspan class="label">GitHub.Contributions:</tspan> <tspan class="value">11</tspan></text>
   
       <rect x="550.4" y="412.0" width="20" height="20" rx="3" fill="#001100" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.22s" />
-      <rect x="578.4" y="412.0" width="20" height="20" rx="3" fill="#ff0033" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.27s" />
+      <rect x="578.4" y="412.0" width="20" height="20" rx="3" fill="#00cc33" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.27s" />
       <rect x="606.4" y="412.0" width="20" height="20" rx="3" fill="#00ff41" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.32s" />
       <rect x="634.4" y="412.0" width="20" height="20" rx="3" fill="#33ff00" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.37s" />
       <rect x="662.4" y="412.0" width="20" height="20" rx="3" fill="#008f11" stroke="#2a3350" stroke-width="1" class="swatch" style="animation-delay:1.42s" />
