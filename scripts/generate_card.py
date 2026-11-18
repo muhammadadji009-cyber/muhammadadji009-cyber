@@ -35,19 +35,20 @@ PROFILE_FIELDS = [
     ("Stack.Frontend", "html, css, javascript"),
     ("Stack.Backend", "php, laravel"),
     ("Stack.Database", "mysql"),
+    ("Environment", "macos, git, github"),
     ("Contact.GitHub", f"github.com/{LOGIN}"),
 ]
 
-# ---- Kali color scheme -----------------------------------------------------
-BG_COLOR = "#0b1120"          # terminal window background (deep navy)
-TITLEBAR_COLOR = "#141c30"    # title bar strip
-TITLE_TEXT_COLOR = "#7f8aa6"
-ACCENT = "#5dc9f2"             # ASCII art color (light blue dots)
-HEADER_COLOR = "#e8384f"       # bold red "login@login" header + prompt user/path
-LABEL_COLOR = "#ffffff"        # bold field labels
-VALUE_COLOR = "#5dc9f2"        # field values (cyan/blue)
-PALETTE = ["#0b1120", "#e8384f", "#3ddc84", "#ffd166", "#4d8cff",
-           "#b16cff", "#39e0d0", "#e8e8e8"]
+# ---- Matrix color scheme (from the web editor's theme presets) -------------
+BG_COLOR = "#0d0208"          # terminal window background
+TITLEBAR_COLOR = "#001100"    # title bar strip
+TITLE_TEXT_COLOR = "#005500"
+ACCENT = "#00ff66"             # ASCII art color
+HEADER_COLOR = "#ff0033"       # bold "login@github" header + prompt user/path
+LABEL_COLOR = "#008f11"        # bold field labels
+VALUE_COLOR = "#00ff41"        # field values
+PALETTE = ["#001100", "#ff0033", "#00ff41", "#33ff00", "#008f11",
+           "#00ffcc", "#003300", "#00ff00"]
 
 PROMPT_COMMANDS = [
     "junior web developer",
@@ -65,7 +66,7 @@ RAMP = " .:+#@"
 
 CELL_W = 8.4
 CELL_H = 15.0
-ART_COLS = 40
+ART_COLS = 56
 
 TITLEBAR_H = 34
 
