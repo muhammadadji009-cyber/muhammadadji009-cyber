@@ -1,1 +1,3 @@
-# Muhammad_Adjii
+<p align="center">
+<img src="https://raw.githubusercontent.com/muhammadadji009-cyber/muhammadadji009-cyber/refs/heads/main/assets/profile.svg" alt="animated ascii profile card" width="100%" />
+</p>
